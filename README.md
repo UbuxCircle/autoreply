@@ -7,6 +7,7 @@ On LinkedIN In Dashboard, move to messages
   - reply-cancel
   - reply-confirm
   - reply otherrole
+- Customize it
 - Update your away message, dates, and turn on/off
 
 note: Away Message are a premium feature of LinkedIN
